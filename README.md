@@ -1,5 +1,5 @@
 # SQL-para-Banco-de-Dados-Postgres
-# Esta tabela serve de base de estudos basicos e exemplos de Querys que podem ser utilizadas para filtrar dados nas tabelas#
+# Esta tabela serve de base de estudos basicos e exemplos de Queries que podem ser utilizadas para filtrar dados nas tabelas#
 # Nessa tabela é possivel executar filtros como: AVG, ROUND, valor total de todas a notas, extrair somente um valor etc...#
 # primeiro, precisamos instalar o Docker.com, que servirá, Em termos simples: ele permite rodar programas isolados dentro de "caixinhas" chamadas containers, sem precisar instalar tudo diretamente no   #   seu   sistema.
 # para se criar um Conteiner, usarei um exemplo que eu mesmo criei, a escolha dos nomes e portas são pessoais.
